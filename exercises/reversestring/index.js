@@ -18,5 +18,5 @@ return emptyString;
 // arr.reverse();
 // return arr.join('');
 }
-
+reverse("wassup");
 module.exports = reverse;

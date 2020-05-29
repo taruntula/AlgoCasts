@@ -13,5 +13,6 @@ function reverseInt(n) {
   const reverseStr = n.toString().split("").reverse().join("");
   return parseInt(reverseStr) * sign;
 }
+
 // reverseInt(-51);
 module.exports = reverseInt;
